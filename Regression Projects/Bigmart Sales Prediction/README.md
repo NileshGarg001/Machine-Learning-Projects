@@ -1,0 +1,3 @@
+# BigMart Sales Prediction
+
+This project aims to predict outlet sales for BigMart stores using regression modeling. The dataset was obtained from BigMart, and initial data exploration revealed null values. These missing values were handled by making specific assumptions based on the data characteristics. The dataset was then label encoded to convert categorical variables into numerical representations. To ensure compatibility with the regression model, one-hot encoding was applied to further transform the data. Relevant features were selected to build the regression model for sales prediction. This project provides insights into the factors influencing outlet sales and offers a reliable model for future sales forecasting.
