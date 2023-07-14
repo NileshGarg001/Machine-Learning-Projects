@@ -1,0 +1,3 @@
+## Male Female Voice Classifier 
+
+This repository contains a voice classification model that achieves 98% accuracy in distinguishing between male and female voices. The model was trained using a Support Vector Classifier (SVC) algorithm on a carefully curated CSV dataset. Simply load the dataset and apply the trained model to predict the gender of a given voice. The repository provides code, files, and usage instructions. Explore, experiment, and adapt the model for gender-based voice analysis and other applications. Refer to the documentation for further details and reach out for any assistance. Enjoy using the voice classification model!
