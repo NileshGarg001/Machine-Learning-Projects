@@ -1,0 +1,3 @@
+Performed k means clustering on datasett of drivers using 2 features :
+1. mean_dist_day
+2. mean_over_speed_perc
